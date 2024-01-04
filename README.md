@@ -29,6 +29,6 @@ Serve Side works with the API designed to convert the confidential data into pub
 3. Now run the command `npm start` and you will see your server will run at port `localhost:5000`. 
 
 ---
-To contribute Further:sweat_smile:.
+To contribute Further :-)
 
 create a pull request.
